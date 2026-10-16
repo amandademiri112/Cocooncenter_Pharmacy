@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/SQL-blue) ![Static Badge](https://img.shields.io/badge/Power%20BI-gold)   
 
-# Cocooncenter_Pharmacy
+# Cocooncenter Pharmacy
 
 ## Contents
 - [Purpose](#purpose)  
