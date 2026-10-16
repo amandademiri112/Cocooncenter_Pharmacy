@@ -89,7 +89,7 @@ Based on the findings, I would recommend investigating the factors contributing 
 
 ## Final Projects
 
-![Final SQL Project](SQL/cocooncentrepharmacysql)  
+![Final SQL Project](SQL/cocooncentrepharmacysql.sql)  
   
 ![Final Power BI Dashboard](Final_Project/@)
   
