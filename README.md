@@ -96,6 +96,6 @@ Based on the findings, I would recommend investigating the factors contributing 
 
 ![Final SQL Project](SQL/cocooncentrepharmacysql.sql)  
   
-![Final Power BI Dashboard]()
+![Final Power BI Dashboard](Dashboard/Cocooncenter_pharmacy)
   
 ###### Original dataset available in repository
