@@ -87,10 +87,15 @@ Based on the findings, I would recommend investigating the factors contributing 
   
 ## Previews
 
+![Dashboard Preview](Assets/CocooncenterDashboard.PNG)
+
+
+![Dashboard Preview 2](Assets/CocooncenterDashboard2.PNG)
+
 ## Final Projects
 
 ![Final SQL Project](SQL/cocooncentrepharmacysql.sql)  
   
-![Final Power BI Dashboard](Final_Project/@)
+![Final Power BI Dashboard]()
   
 ###### Original dataset available in repository
