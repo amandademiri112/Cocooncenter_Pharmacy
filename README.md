@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/SQL-blue) ![Static Badge](https://img.shields.io/badge/Power%20BI-gold)   
 
-# Cocooncenter_Pharmacy
+# Cocooncenter Pharmacy
 
 ## Contents
 - [Purpose](#purpose)  
@@ -8,7 +8,7 @@
 - [Skills](#skills)
 - [Key Insights](#key-insights)  
 - [Previews](#previews)
-- [Final Project](#final-project)
+- [Final Project](#final-projects)
 
 ## Purpose
 The purpose of this project is to demonstrate my ability to query, analyse, and interpret customer review and product data using SQL, and communicate key findings through data visualisation in Power BI.
@@ -87,6 +87,15 @@ Based on the findings, I would recommend investigating the factors contributing 
   
 ## Previews
 
-## Final Project
+![Dashboard Preview](Assets/CocooncenterDashboard.PNG)
+
+
+![Dashboard Preview 2](Assets/CocooncenterDashboard2.PNG)
+
+## Final Projects
+
+[Final SQL Project](SQL/cocooncentrepharmacysql.sql)  
+  
+[Final Power BI Dashboard](Dashboard/Cocooncenter_pharmacy.pbix)
   
 ###### Original dataset available in repository
