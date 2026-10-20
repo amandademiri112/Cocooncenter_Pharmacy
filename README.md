@@ -87,7 +87,7 @@ Based on the findings, I would recommend investigating the factors contributing 
   
 ## Previews
 
-[Dashboard Preview](Cocooncenter_pharmacy.pdf)
+![Dashboard Preview](Cocooncenter_pharmacy.pdf)
 
 ## Final Projects
 
