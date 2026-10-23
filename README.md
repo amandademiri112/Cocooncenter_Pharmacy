@@ -87,10 +87,10 @@ Based on the findings, I would recommend investigating the factors contributing 
   
 ## Previews
 
-![Dashboard Preview](Assets/CocooncenterDashboard.PNG)
+![Dashboard Preview](Assets/CocooncenterDashboard.PNG)  
 
 
-![Dashboard Preview 2](Assets/CocooncenterDashboard2.PNG)
+![Dashboard Preview 2](Assets/CocooncenterDashboard2.PNG)  
 
 ## Final Projects
 
